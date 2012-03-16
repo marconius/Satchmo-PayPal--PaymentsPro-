@@ -1,0 +1,3 @@
+A payment module for Satchmo that uses django-paypal to process payments
+
+requires django-paypal to be installed and configured
